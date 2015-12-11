@@ -1,4 +1,4 @@
-package com.mvyas.democustomadapter;
+package com.mvyas.simplecustomadapter;
 
 public class ContactListItems {
 

@@ -1,4 +1,4 @@
-package com.mvyas.democustomadapter;
+package com.mvyas.simplecustomadapter;
 
 import java.util.ArrayList;
 
@@ -13,8 +13,6 @@ import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
-
-import com.mvyas.democustomadapter.R;
 
 public class MainActivity extends Activity {
 

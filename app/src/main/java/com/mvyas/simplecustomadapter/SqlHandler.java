@@ -1,4 +1,4 @@
-package com.mvyas.democustomadapter;
+package com.mvyas.simplecustomadapter;
 
 import android.content.Context;
 import android.database.Cursor;

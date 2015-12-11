@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.mvyas.democustomadapter;
+package com.mvyas.simplecustomadapter;
 
 public final class R {
     public static final class attr {

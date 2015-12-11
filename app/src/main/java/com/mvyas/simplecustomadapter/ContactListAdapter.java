@@ -1,4 +1,4 @@
-package com.mvyas.democustomadapter;
+package com.mvyas.simplecustomadapter;
 
 import java.util.ArrayList;
 
@@ -8,8 +8,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-
-import com.mvyas.democustomadapter.R;
 
 public class ContactListAdapter extends BaseAdapter {
 

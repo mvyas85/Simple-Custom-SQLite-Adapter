@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/vyasma1/Desktop/DemoCustomAdapter/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/vyasma1/Desktop/DemoCustomAdapter/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/vyasma1/Desktop/DemoCustomAdapter/app/build/intermediates/res/merged/debug/layout/contact_list_row.xml",
+        "source": "/Users/vyasma1/Desktop/DemoCustomAdapter/app/src/main/res/layout/contact_list_row.xml"
+    }
+]

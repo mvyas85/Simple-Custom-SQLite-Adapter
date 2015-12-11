@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 24.4.1">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView1`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView1&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/Users/vyasma1/Desktop/DemoCustomAdapter/app/src/main/res/layout/main.xml"
+            line="37"
+            column="17"/>
+        <location
+            file="/Users/vyasma1/Desktop/DemoCustomAdapter/app/src/main/res/layout/main.xml"
+            line="18"
+            column="17"/>
+    </issue>
+
+</issues>
